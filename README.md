@@ -5,11 +5,8 @@
 
 ### Dataset paths
 
-PACS dataset is available at https://huggingface.co/datasets/flwrlabs/pacs
+PACS dataset and DigitsDG dataset can be obtained from their own websites. Links will be provided after the anonymous submission stage. 
 
-DigitsDG dataset is available at https://csip.fzu.edu.cn/files/datasets/SSDG/digits_dg.zip
-
-The corrupted labels are inside osdg_nl_files folder
 ```
 # PACS
 Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
